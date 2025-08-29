@@ -1,6 +1,7 @@
 {
   "name": "data-collection-form",
   "version": "1.0.0",
+  "type": "module",
   "description": "A data collection form that stores data to Airtable",
   "main": "index.js",
   "scripts": {
